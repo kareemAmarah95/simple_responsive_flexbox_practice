@@ -176,9 +176,9 @@ header.header {
 }
 
 @media screen and (min-width : 773px){
- body{
+ /* body{
      overflow-x: hidden;
- }
+ } */
     .navbar{
      /* background: red; */
      padding: 1px 0px;
@@ -245,9 +245,9 @@ header.header {
 
 
 @media screen and (min-width : 992px){
-    body{
+    /* body{
      overflow-x: hidden;
- }
+ } */
     .navbar{
      /* background: red; */
      padding: 1px 0px;
